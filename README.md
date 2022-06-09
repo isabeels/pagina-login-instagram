@@ -1,7 +1,7 @@
 <h1>Replicando a página inicial do Instagram</h1>
 
 ### Sobre
-Projeto desenvolvido como desafio de projeto do bootcamp Santander Full Stack Developer, na plataforma DIO.me, com o objetivo de praticar CSS e Flexbox.
+Este é um desafio de projeto do bootcamp Santander Full Stack Developer, na plataforma DIO.me, com o objetivo de praticar CSS e Flexbox.
 
 <h3> 🛠 Tecnologias </h3>
 
